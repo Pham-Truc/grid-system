@@ -31,12 +31,12 @@
     padding-right: 0;
 }
 
-.c-0 {
+.c-0 { /* ẩn cột*/
     display: none;
 }
 
 .c-1 {
-    flex: 0 0 8.33333%;
+    flex: 0 0 8.33333%;/*cú pháp ngắn của flex grow,flex shrink, flex basic*/
     max-width: 8.33333%;
 }
 
